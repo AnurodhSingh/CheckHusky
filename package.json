@@ -32,7 +32,7 @@
     "@react-native-firebase/analytics": "^7.3.1",
     "@react-native-firebase/app": "^8.2.0",
     "@react-native-firebase/messaging": "^7.5.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-native": "^0.63.2",
